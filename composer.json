@@ -1,5 +1,5 @@
 {
-    "name": "bdelespierre/underscore",
+    "name": "sebathi/underscore",
     "type": "library",
     "description": "Underscore.js port in PHP",
     "keywords": ["php", "js", "underscore", "utility"],
